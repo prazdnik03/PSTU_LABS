@@ -1,4 +1,0 @@
-﻿  FileName.cpp
-C:\Users\bosun\source\repos\recursiya\FileName.cpp(16,29): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
-C:\Users\bosun\source\repos\recursiya\FileName.cpp(33,9): warning C4101: i: неиспользованная локальная переменная
-  recursiya.vcxproj -> C:\Users\bosun\source\repos\recursiya\x64\Debug\recursiya.exe
